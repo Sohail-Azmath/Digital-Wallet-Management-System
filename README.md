@@ -18,7 +18,11 @@ After completing all transactions, sort and display users based on leftover bala
 Constraints
 
 1 ≤ N ≤ 102
+
 1 ≤ userID ≤ 102
+
 0 ≤ balance ≤ 104
+
 1 ≤ T ≤ 103
+
 0 ≤ amount ≤ 104
